@@ -1,0 +1,19 @@
+body{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+   background-color: white; 
+   border-style: dashed;
+}
+span
+{
+	color: black;	
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
